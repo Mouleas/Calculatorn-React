@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef48487d.css",
-    "main.js": "/static/js/main.11c9e6dd.js",
-    "static/js/787.a174f9e5.chunk.js": "/static/js/787.a174f9e5.chunk.js",
-    "index.html": "/index.html",
-    "main.ef48487d.css.map": "/static/css/main.ef48487d.css.map",
-    "main.11c9e6dd.js.map": "/static/js/main.11c9e6dd.js.map",
-    "787.a174f9e5.chunk.js.map": "/static/js/787.a174f9e5.chunk.js.map"
+    "main.css": "/Mouleas/Calculatorn-React/static/css/main.ef48487d.css",
+    "main.js": "/Mouleas/Calculatorn-React/static/js/main.5c32926c.js",
+    "static/js/787.a174f9e5.chunk.js": "/Mouleas/Calculatorn-React/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/Mouleas/Calculatorn-React/index.html",
+    "main.ef48487d.css.map": "/Mouleas/Calculatorn-React/static/css/main.ef48487d.css.map",
+    "main.5c32926c.js.map": "/Mouleas/Calculatorn-React/static/js/main.5c32926c.js.map",
+    "787.a174f9e5.chunk.js.map": "/Mouleas/Calculatorn-React/static/js/787.a174f9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef48487d.css",
-    "static/js/main.11c9e6dd.js"
+    "static/js/main.5c32926c.js"
   ]
 }
