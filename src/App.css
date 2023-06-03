@@ -46,6 +46,7 @@
 }
 
 .header {
+  color: whitesmoke;
   padding: 10px;
   &:after {
     content: 'Calculator';
@@ -106,7 +107,7 @@ button {
   border-radius: 10px;
   padding: 40px;
   padding-top: 20px;
-  background-color: rgb(223, 223, 223);
+  background-color: rgb(79, 79, 79);
   width: fit-content;
   animation: glow 20s infinite linear;
 }
